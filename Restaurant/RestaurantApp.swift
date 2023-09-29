@@ -1,9 +1,3 @@
-//
-//  RestaurantApp.swift
-//  Restaurant
-//
-//  Created by Tayami Rai on 29/09/2023.
-//
 
 import SwiftUI
 
@@ -11,7 +5,7 @@ import SwiftUI
 struct RestaurantApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
